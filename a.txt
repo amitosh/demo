@@ -1,3 +1,5 @@
 This is a sample file.
 
 This is new line.
+
+This is line number 3.
